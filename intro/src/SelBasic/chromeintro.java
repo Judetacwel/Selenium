@@ -13,7 +13,7 @@ public class chromeintro {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		driver.close();
-		driver.quit();
+		//driver.quit();
 		
 
 	}
